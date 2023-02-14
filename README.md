@@ -14,17 +14,20 @@
 
 ###
 
+<h2 align="left">Funcionalidade</h2>
+
+###
+
+<p align="left">Adiciona usuário (nome e sobrenome) e sua participação nos lucros.</p>
+
+###
+
 <h2 align="left">Front-end</h2>
 
 ###
 
 <div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://files.fm/thumb_show.php?i=b9hcr2sca"  />
+  <img height="350" src="https://files.fm/thumb_show.php?i=b9hcr2sca"  />
 </div>
 
 ###
