@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://drive.google.com/file/d/1mFJJ6mUs_WUEaE5pJbR0aUeHBNpQ9Ynd/view?usp=sharing"  />
+  <img height="200" src="https://files.fm/u/8hgvc7ag7"  />
 </div>
 
 ###
