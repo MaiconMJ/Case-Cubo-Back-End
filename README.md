@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">🛠️ Tecnologias Utilizadas 💾</h2>
+<h2 align="left">⚡Tecnologias Utilizadas 💾</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Funcionalidade</h2>
+<h2 align="left">⚙️ Funcionalidades 🛠️</h2>
 
 ###
 
