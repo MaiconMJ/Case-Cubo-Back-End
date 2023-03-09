@@ -1,4 +1,4 @@
-<h1 align="left">Case Fullstack Cubo Itaú</h1>
+<h1 align="left">Case Fullstack Cubo Itaú 🏦</h1>
 
 ###
 
