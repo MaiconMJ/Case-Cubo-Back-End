@@ -27,7 +27,7 @@
 ###
 
 <div align="left">
-  <img height="350" src="https://files.fm/thumb_show.php?i=b9hcr2sca](https://uploaddeimagens.com.br/images/004/500/455/full/case-cubo.jpg?1686316429)"  />
+  <img height="350" src="https://uploaddeimagens.com.br/images/004/500/455/full/case-cubo.jpg?1686316429"  />
 </div>
 
 ###
